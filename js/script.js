@@ -33,12 +33,24 @@ console.log(car)
     year: 2021,
   };
  
-
   const a = 4
   const b = 2
   const c = 6
   console.log(a+b*c)
   console.log(b+c)
 
+  //
+ 
+  // 
 
 
+var FristName 
+var LastName 
+var AddRess 
+var CiTy 
+var State
+var ZipCode 
+var YourAge 
+var RefrraLsoures 
+var MYweContactYou 
+//
