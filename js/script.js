@@ -26,7 +26,19 @@ console.log(car)
  //
  const foot = null 
  console.log(null)
+  //
+  const Car = {
+    make: "Toyota",
+    model: "Camry",
+    year: 2021,
+  };
  
+
+  const a = 4
+  const b = 2
+  const c = 6
+  console.log(a+b*c)
+  console.log(b+c)
 
 
 
